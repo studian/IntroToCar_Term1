@@ -9,11 +9,7 @@ In this section you will write a function that implements the correct sequence o
 
 
 ## Python3 Code
-
-
-# CODE CELL
-#
-# Write the park function so that it actually parks your vehicle.
+* Write the park function so that it actually parks your vehicle.
 
 from Car import Car
 import time
@@ -54,3 +50,5 @@ def park(car):
 car = Car()
 park(car)
 
+## Result
+![](./parking_result.gif)
