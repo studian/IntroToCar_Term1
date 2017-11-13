@@ -1,16 +1,16 @@
-# SDC_Basic_Term1
+# Intro To Car Term1
 
-# Joy Ride - Part 3: Parallel Parking
+## Joy Ride - Part 3: Parallel Parking
 In this section you will write a function that implements the correct sequence of steps required to parallel park a vehicle.
 
 **Note** for this segment the vehicle's maximum speed has been set to just over 4 mph. This should make parking a little easier.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/2/26/ParallelParkingAnimation.gif)
 
-## Simulation Result
+### Simulation Result
 ![result_image](./parking_result.gif)
 
-## Python3 Code
+### Python3 Code
 * Write the park function so that it actually parks your vehicle.
 
 from Car import Car
