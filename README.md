@@ -9,13 +9,16 @@ In this section you will write a function that implements the correct sequence o
 
 ## HTML Code
 ``
+
 %%HTML
 <button id="launcher">Launch Car Simulator</button>
 <script src="setupLauncher.js"></script>
+
 ``
 
 ## Python3 Code
 ``
+
 # CODE CELL
 #
 # Write the park function so that it actually parks your vehicle.
@@ -58,4 +61,5 @@ def park(car):
 
 car = Car()
 park(car)
+
 ``
