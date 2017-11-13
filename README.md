@@ -7,6 +7,8 @@ In this section you will write a function that implements the correct sequence o
 
 ![](https://upload.wikimedia.org/wikipedia/commons/2/26/ParallelParkingAnimation.gif)
 
+## Simulation Result
+![result_image](./parking_result.gif)
 
 ## Python3 Code
 * Write the park function so that it actually parks your vehicle.
@@ -50,5 +52,4 @@ def park(car):
 car = Car()
 park(car)
 
-## Result
-![](./parking_result.gif)
+
