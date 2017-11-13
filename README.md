@@ -7,17 +7,9 @@ In this section you will write a function that implements the correct sequence o
 
 ![](https://upload.wikimedia.org/wikipedia/commons/2/26/ParallelParkingAnimation.gif)
 
-## HTML Code
-``
-
-%%HTML
-<button id="launcher">Launch Car Simulator</button>
-<script src="setupLauncher.js"></script>
-
-``
 
 ## Python3 Code
-``
+
 
 # CODE CELL
 #
@@ -62,4 +54,3 @@ def park(car):
 car = Car()
 park(car)
 
-``
